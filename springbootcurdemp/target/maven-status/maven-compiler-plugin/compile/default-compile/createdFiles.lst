@@ -1,0 +1,5 @@
+com\example\springbootcurdemp\controller\EmployeeController.class
+com\example\springbootcurdemp\repository\EmployeeRepository.class
+com\example\springbootcurdemp\model\Employee.class
+com\example\springbootcurdemp\service\EmployeeService.class
+com\example\springbootcurdemp\SpringbootcurdempApplication.class
